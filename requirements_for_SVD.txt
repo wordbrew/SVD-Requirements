@@ -54,5 +54,5 @@ transformers==4.35.2
 typing_extensions==4.4.0
 urllib3==1.26.13
 wcwidth==0.2.12
-xformers==0.0.22.post7+cu118
+xformers==0.0.22.post7+cu118 --index-url https://download.pytorch.org/whl/cu118
 yarl==1.9.3
